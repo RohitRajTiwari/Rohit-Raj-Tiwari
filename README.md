@@ -26,7 +26,7 @@ edits)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Coding Profiles 
 <p align=center >
- <a href="https://leetcode.com/u/udaysharma2003/" target="_blank">
+ <a href="https://leetcode.com/u/Rohit-Tiwari_3/" target="_blank">
  <img align="center" src='https://leetcard.jacoblin.cool/RohitRajTiwari?hide=ranking&border=0&radius=21' width='380"'>
 </a>
 
